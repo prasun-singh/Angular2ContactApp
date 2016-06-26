@@ -1,0 +1,21 @@
+body {
+  padding: 32px;
+  margin: 32px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+}
+
+
+header nav {
+    color: green;
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+header nav a:hover{
+	color:blue
+}
+
+header nav a:active{
+	color:green
+}
